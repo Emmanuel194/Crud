@@ -5,7 +5,7 @@ export const AppDataSource = new DataSource({
     host: "localhost",
     port: 5432,
     username: "postgres",
-    password: "emanuel194",
+    password: "emanuel123",
     database: "api-softex",
 })
 
